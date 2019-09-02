@@ -1,3 +1,46 @@
-body {
-    background-color: orange;
+body{
+    background-color:beige;
 }
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: auto;
+    text-align: left;
+    justify-content: center;
+  }
+
+  .card {
+    max-width: 23%;
+    border: solid 1px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    padding: 10px 16px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: white;
+  }
+  
+  .cardHeader {
+      text-align: center;
+      border: solid 1px lightblue;
+      /* border-inline-width:  */
+  }
+  .cardPic {
+      text-align: center;
+  }
+
+  .description {
+      text-align: justify;
+  }
+
+  .specs {
+      font-weight: bold;
+  }
+
+  .available {
+      border-width: inherit;
+      background-color: darkgray;
+      color: yellow;
+      /* overflow: auto;  */
+  }
