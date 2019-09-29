@@ -4,7 +4,7 @@
 Use this application prints product cards (sporting balls) with descriptions.
 
 ## Screenshots
-![Product Cards Preview]()
+![Product Cards Preview](https://raw.githubusercontent.com/rtate2/product-cards/master/screenshots/Screen%20Shot%202019-09-29%20at%202.50.22%20PM.png)
 
 ## How to run
 * Clone down this project
